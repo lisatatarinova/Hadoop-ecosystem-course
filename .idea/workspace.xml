@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c818093-0816-41f0-878d-f419cbfc6127" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task1/local_data/ids.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task1/mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task1/reducer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task1/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task1/run_local.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task2/mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task2/reducer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task2/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-mapreduce/task2/run_local.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task1/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task1/tables_creation.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task2/hivetask2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task2/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task3/hivetask3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task3/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task4/hivetask4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task4/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-hive/task4/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-spark/task1/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-spark/task1/sparktask1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hadoop-ecosytem-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N32viBiqL5YE0KwKX5PX9leeYj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1-mapreduce/task2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c818093-0816-41f0-878d-f419cbfc6127" name="Changes" comment="" />
+      <created>1678878679069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678878679069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
